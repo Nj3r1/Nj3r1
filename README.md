@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I’m a passionate [Your Profession/Field] with ex
 ## 🚀 About Me  
 
 - 🌱 Currently learning: [Python, Rust, Go]  
-- 💼 Working at: [Company or Organization]  
+- 💼 Working at: ICT Authority   Kenya
+- 
 - 🤝 Open to collaborating on: [Type of projects you're interested in]  
 - 💬 Ask me about: [Python, and currently on Rust and Go]  
 - 📫 How to reach me: [susanjeri4717@gmaill.com]  
